@@ -1,0 +1,26 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:            retorno_pct   R-squared:                       0.000
+Model:                            OLS   Adj. R-squared:                 -0.000
+Method:                 Least Squares   F-statistic:                     1.321
+Date:                Thu, 24 Sep 2026   Prob (F-statistic):              0.286
+Time:                        13:19:07   Log-Likelihood:                -8405.2
+No. Observations:                2276   AIC:                         1.682e+04
+Df Residuals:                    2273   BIC:                         1.683e+04
+Df Model:                           2                                         
+Covariance Type:              cluster                                         
+================================================================================
+                   coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------
+Intercept        0.5385      1.032      0.522      0.602      -1.484       2.561
+amihud_lag      -0.4961      0.845     -0.587      0.557      -2.152       1.160
+frec_lag_pct     0.0047      0.010      0.479      0.632      -0.015       0.024
+==============================================================================
+Omnibus:                      531.550   Durbin-Watson:                   1.846
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             4194.097
+Skew:                           0.880   Prob(JB):                         0.00
+Kurtosis:                       9.413   Cond. No.                         505.
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (CRV1)

@@ -269,3 +269,22 @@
 [2026-09-24 12:36:27] AUSTRAC1 2024: 248 filas | respuesta HTTP 200
 [2026-09-24 12:36:30] AUSTRAC1 2025: 248 filas | respuesta HTTP 200
 [2026-09-24 12:36:32] FIN | archivo: datos_crudos_2024200535B_bvl.csv | 48024 filas | 24 emisoras
+[2026-09-24 12:59:32] INICIO limpieza de datos
+[2026-09-24 12:59:32] BVL: 10610 precios de cierre en 0 (dias sin negociacion) convertidos a vacio
+[2026-09-24 12:59:32] Union: Yahoo 48067 filas + BVL 48024 filas -> 46625 filas comunes
+[2026-09-24 12:59:32] Retornos mayores a +/-50% tratados como error: 3
+[2026-09-24 12:59:32] FIN | datos_procesados_2024200535B.csv | 46625 filas | 24 tickers | 10 columnas | SHA-256: 085a7c9af9c76c210f187f360a318285be47f01c97669ff8eeff20b839ee8aba
+[2026-09-24 13:04:15] INICIO analisis
+[2026-09-24 13:04:16] Panel mensual: 2304 observaciones empresa-mes
+[2026-09-24 13:04:19] FIN analisis | 13 archivos en /salidas
+[2026-09-24 13:08:18] INICIO analisis
+[2026-09-24 13:08:19] Panel mensual: 2304 observaciones empresa-mes
+[2026-09-24 13:09:54] INICIO analisis
+[2026-09-24 13:09:55] Panel mensual: 2304 observaciones empresa-mes
+[2026-09-24 13:09:57] FIN analisis | 13 archivos en /salidas
+[2026-09-24 13:13:53] INICIO analisis
+[2026-09-24 13:13:53] Panel mensual: 2304 observaciones empresa-mes
+[2026-09-24 13:13:55] FIN analisis | 13 archivos en /salidas
+[2026-09-24 13:19:06] INICIO analisis
+[2026-09-24 13:19:07] Panel mensual: 2304 observaciones empresa-mes
+[2026-09-24 13:19:08] FIN analisis | 13 archivos en /salidas
