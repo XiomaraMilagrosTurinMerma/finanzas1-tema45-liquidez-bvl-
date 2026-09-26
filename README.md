@@ -49,3 +49,10 @@ Las fechas de consulta son constantes. Si una fuente revisa sus series después 
 
 ## Ética
 Se revisó robots.txt, se usó un User-Agent identificable y una pausa de 1.5 s entre solicitudes. Solo se extrajo información pública. Se usó IA como apoyo para escribir y depurar el código; la autora revisó y comprende cada bloque.
+
+## Resultados principales
+- 14 % de los días de la muestra no registraron negociación.
+- Emisoras más ilíquidas: Austral (30 % de días negociados), Scotiabank (40 %) e Interbank (43 %).
+- Cartera ilíquida − cartera líquida: −0.24 % mensual (t = −0.53), no significativa.
+- Coeficiente de Amihud en Fama-MacBeth: −0.963 (t = −0.90); en panel con errores agrupados: −0.496 (t = −0.59).
+- Conclusión: no se encuentra prima por iliquidez en la BVL entre 2018 y 2025.
