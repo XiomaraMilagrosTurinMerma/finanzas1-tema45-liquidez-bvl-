@@ -1,6 +1,6 @@
 # Liquidez bursátil y rendimiento de las acciones en la Bolsa de Valores de Lima
 
-- **Autora:** Turín Merma Xiomara Milagros
+- **Autora:** Turin Merma Xiomara Milagros
 - **Código de matrícula:** 2024200535B
 - **Curso:** Finanzas I (055D) · Escuela Profesional de Economía · UNCP · 2026-II · Unidad I
 - **Tema del temario:** n.º 45 — Liquidez bursátil y rendimiento de las acciones en la BVL
